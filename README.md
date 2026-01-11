@@ -167,4 +167,4 @@ Longer training improves accuracy but is compute-limited
 
 ##  Conclusion
 
-This project demonstrates a complete end-to-end object detection pipeline using Faster R-CNN on the PASCAL VOC dataset. Despite limited training time and class imbalance, the model achieves reasonable accuracy and produces visually consistent detections, making it suitable for academic and learning purposes.
+This project demonstrates a complete end-to-end object detection pipeline using Faster R-CNN on the PASCAL VOC dataset. Despite limited training time and class imbalance, the model achieves reasonable accuracy and produces visually consistent detections.
